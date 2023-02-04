@@ -1,5 +1,6 @@
 import sys, os
-sys.path.append(os.path.join(os.path.abspath(os.getcwd()))) # change this to your path to “path/to/BlenderToolbox/
+# sys.path.append(os.path.join(os.path.abspath(os.getcwd()))) # change this to your path to “path/to/BlenderToolbox/
+sys.path.append('C:/studio/blender/BlenderToolbox/BlenderToolbox/')
 import BlenderToolBox as bt
 
 '''
